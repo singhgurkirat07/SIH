@@ -1,0 +1,12 @@
+cpse,material_code,description,category,material_type,unit,specification,manufacturer,historical_quantity,historical_cost
+CPCL,CPCL-1001,HEX BOLT M16 X 50 SS304,,,,,,100,500.00
+BHEL,BHEL-2001,Hexagonal Bolt M16x50mm Stainless Steel 304,,,,,,200,1050.00
+NTPC,NTPC-3001,HEX BOLT M16-50 SS304,,,,,,150,750.00
+ONGC,ONGC-4001,Gate Valve 2 inch 150# CS Flanged,,,,,,10,5000.00
+SAIL,SAIL-5001,GATE VALVE DN50 CLASS 150 CARBON STEEL,,,,,,12,6000.00
+CPCL,CPCL-1002,Bearing 6205 ZZ,,,,,,50,250.00
+BHEL,BHEL-2002,Deep Groove Ball Bearing 6205ZZ,,,,,,30,155.00
+NTPC,NTPC-3002,Electric Motor 15KW 3PH 1440RPM TEFC,,,,,,2,45000.00
+ONGC,ONGC-4002,MOTOR SQUIRREL CAGE 15KW 3PHASE 1440 RPM,,,,,,1,22000.00
+SAIL,SAIL-5002,Pipe Seamless 4 inch SCH40 ASTM A106 GR B,,,,,,100,12000.00
+CPCL,CPCL-1003,PIPE SMLS 4IN SCH40 A106B,,,,,,50,6500.00
