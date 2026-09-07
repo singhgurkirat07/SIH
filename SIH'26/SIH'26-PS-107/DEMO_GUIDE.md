@@ -65,3 +65,8 @@ For the purpose of this demonstration:
 ## ⚠️ Known Limitations
 - **Full Text Search**: Currently uses basic `ILIKE` and in-memory vector cosine similarity for the demo. Production deployment will require `pgvector` enabled on the PostgreSQL instance.
 - **LLM Rate Limits**: If using a free-tier OpenAI key, rapid queries might trigger rate limiting, resulting in a graceful fallback message (`"System temporarily unavailable: Could not generate a verified answer."`).
+
+## 👥 Team
+
+- Gurkirat Singh
+- Heer Chawla
